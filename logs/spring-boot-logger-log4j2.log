@@ -1,0 +1,5 @@
+2019-12-24 11:31:09,877 INFO o.s.b.StartupInfoLogger [main] Starting SpringContextTest on DRMB-N1QULVDR with PID 21376 (started by michael.gu in /private/tmp/test)
+2019-12-24 11:31:09,883 INFO o.s.b.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-12-24 11:31:10,704 INFO o.s.s.c.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-24 11:31:10,852 INFO o.s.b.StartupInfoLogger [main] Started SpringContextTest in 1.212 seconds (JVM running for 1.95)
+2019-12-24 11:31:10,978 INFO o.s.s.c.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
